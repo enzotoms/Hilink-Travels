@@ -66,25 +66,24 @@ export const NAV_LINKS = [
     {
       title: 'Learn More',
       links: [
-        'About Hilink',
-        'Press Releases',
-        'Environment',
-        'Jobs',
+        'About Hilink SleekT',
+        'Blogs',
+        'Safety Tours',
         'Privacy Policy',
         'Contact Us',
       ],
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['The GomC Expo', 'Travel Safe', 'Hill Sides', 'Careers'],
     },
   ];
   
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Admin Officer', value: '(+40) 952-333-0555' },
+      { label: 'Email Officer', value: 'sleekTravels@teams.com' },
     ],
   };
   
