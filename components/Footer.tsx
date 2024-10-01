@@ -63,7 +63,9 @@ const Footer = () => {
         {/* section after the footer  */}
         <div className='border bg-grey-20'/>
         <p className='regular-14 w-full text-center text-gray-30'>
-          2019 - {new Date().getFullYear()}  Copyright &copy; Hilink Sleek-Travels | All right reserved
+          2019 - {new Date().getFullYear()}  Copyright &copy; Hilink Sleek-Travels | All right reserved <br />
+          Developed by <a href="https://my-portfolio-indol-five-46.vercel.app/" target="_blank" rel="noopener noreferrer"
+        className="text-green-50 font-semibold"> Thomas Ernest</a>
        </p>
       </div>
     </footer>
