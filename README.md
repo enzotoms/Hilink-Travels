@@ -1,5 +1,8 @@
 ![hilink](https://github.com/user-attachments/assets/d59e8b0f-db7d-4e5e-b5a5-b44088dbafbf)
 
+
+live preview link: https://sleektravels-frontend.vercel.app/
+
 # Sleek-Travels Frontend
 
 Welcome to the frontend repository for **Sleek-Travels**, a modern travel and camping agency platform. This project provides an intuitive and visually appealing user interface that helps users plan their travels and camping trips with ease.
